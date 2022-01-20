@@ -28,7 +28,7 @@ if pred_button:
     session_state.pred_button = True
 
 if session_state.pred_button:
-    model = load_model('../model/efficientnet_transport.h5')
+    model = load_model('/model/efficientnet_transport.h5')
 
     class_name, confidence = get_prediction_and_confidence(image, model)
 
