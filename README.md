@@ -2,7 +2,7 @@
 This machine learning powered app that tells you whether an image contains a mode of transport or not. <br>
 http://transport-not-transport-app.herokuapp.com/
 
-<img src="https://user-images.githubusercontent.com/73251461/151201732-b5eeffdc-e64a-4f7f-a9d1-0afe444ff37c.png" width="900">
+<img src="https://user-images.githubusercontent.com/73251461/151224043-c80dd60a-51f2-43d2-87eb-09106687330e.png" width="900">
 
 # Dataset
 The model was trained on 25000 images of transport and not transport downloaded from ImageNet. 
