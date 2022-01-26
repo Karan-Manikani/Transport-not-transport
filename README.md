@@ -3,8 +3,8 @@ This machine learning powered app that tells you whether an image contains a mod
 http://transport-not-transport-app.herokuapp.com/
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/73251461/151202142-8fdd47fd-e84f-4c6b-9954-c6d0d227d7a4.png" width="480" height="270">
-<img src="https://user-images.githubusercontent.com/73251461/151201732-b5eeffdc-e64a-4f7f-a9d1-0afe444ff37c.png" width="480" height="270">
+<img src="https://user-images.githubusercontent.com/73251461/151202142-8fdd47fd-e84f-4c6b-9954-c6d0d227d7a4.png" width="600">
+<img src="https://user-images.githubusercontent.com/73251461/151201732-b5eeffdc-e64a-4f7f-a9d1-0afe444ff37c.png" width="600">
 </p>
 
 # Dataset
