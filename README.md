@@ -17,4 +17,5 @@ The app runs on a fine-tuned EffiecientNet to make predictions. <br>
 
 ## Deployment
 The front-end UI of the web app was made using Streamlit. It includes a file uploader widget that allows you to upload images, and a predict button that returns predictions along with the probability of the predicted class.<br>
-The web app was deployed to Heroku. You can find the web app [here](http://transport-not-transport-app.herokuapp.com/)
+The web app was deployed to Heroku. <br>
+You can find the web app [here](http://transport-not-transport-app.herokuapp.com/)
