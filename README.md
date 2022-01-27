@@ -5,8 +5,7 @@ http://transport-not-transport-app.herokuapp.com/
 <img src="https://user-images.githubusercontent.com/73251461/151224043-c80dd60a-51f2-43d2-87eb-09106687330e.png" width="900">
 
 # Dataset
-The model was trained on 25000 images of transport and not transport downloaded from ImageNet. 
-
+The model was trained on a dataset containing 25000 images downloaded from ImageNet. The dataset included 14000 images of transport and 11000 images of the not transport class.
 Here's a brief summary of the data collection process:
 1. Created a list containing 580 types of transport along with their respective synids (unique ID to identify each ImageNet class).
 2. Created a list containing the synids of 500 randomly selected non-transport classes. 
