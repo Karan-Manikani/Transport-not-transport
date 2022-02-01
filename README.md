@@ -13,7 +13,7 @@ Here's a summary of the data collection process:
 4. Merged folders of each class to form a larger sub-directory of transport and not-transport images. 
 
 ## Model Building
-The app runs on a fine-tuned EffiecientNet to return predictions. 
+Built and trained a CNN using transfer learning in Tensorflow. Two dense layers were stacked on top of a fine-tuned EfficientNet base model which outputs a value between 0 and 1. Data augmentation was applied to all images before being sent into the CNN for training. 
 
 Model metrics:
 * Training Accuracy: 95.19 %
